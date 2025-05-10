@@ -31,22 +31,12 @@ Welcome to my intergalactic GitHub outpost. I’m a Software Engineer who crafts
   ![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 
-## 🖖 Contact the Mothership
-- **Email**: [your.email@example.com] *(Send a subspace message!)*
-- **LinkedIn**: [link-to-linkedin] *(For professional hyperspace networking)*
-- **Portfolio**: [link-to-portfolio] *(Explore my galactic creations)*
-- **Twitter/X**: [link-to-twitter] *(Catch my intergalactic hot takes)*
-
 ## 🌠 Current Mission Log
-- Engineering a [specific project, e.g., decentralized app for sci-fi fans].
-- Leveling up my [skill, e.g., Rust for systems programming].
-- Contributing to [open-source project, e.g., a CLI tool for space nerds].
+- Engineering a CMS using Laravel mostly for blogs and e-commerce
+- Leveling up my skills in managing software teams
 
 <div align="center">
   <img src="./rm.gif" width="70%"/>
 </div>
-
-## 💾 Fun Fact
-I once debugged a 500-line script while humming the *Star Wars* theme. Spoiler: The bug was a missing semicolon, and the Force was with me.
 
 *Thanks for warping into my profile! Fork a repo, open an issue, or send a holo-message if you want to team up for a coding adventure!*
