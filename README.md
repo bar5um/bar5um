@@ -42,7 +42,9 @@ Welcome to my intergalactic GitHub outpost. I’m a Software Engineer who crafts
 - Leveling up my [skill, e.g., Rust for systems programming].
 - Contributing to [open-source project, e.g., a CLI tool for space nerds].
 
-![Retro Sci-Fi GIF](https://media.giphy.com/media/3o7TKqoaKAYDiT3ME0/giphy.gif)
+<div align="center">
+  <img src="./rm.gif" width="70%"/>
+</div>
 
 ## 💾 Fun Fact
 I once debugged a 500-line script while humming the *Star Wars* theme. Spoiler: The bug was a missing semicolon, and the Force was with me.
