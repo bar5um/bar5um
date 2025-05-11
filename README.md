@@ -3,7 +3,6 @@
   <img src="./shini.gif" width="70%"/>
 </div>
 
-
 Welcome to my intergalactic GitHub outpost. I’m a Software Engineer who crafts code like a starship navigating the nebula of tech. My mission? To build apps that spark joy, solve mysteries, and maybe save the galaxy (or at least a few deadlines). Think of me as a code-wielding Jedi with a penchant for sci-fi puns and pixel-perfect solutions.
 
 ## 🌌 My Tech Arsenal
