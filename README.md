@@ -12,6 +12,7 @@ Welcome to my intergalactic GitHub outpost. I’m a Software Engineer who crafts
 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
