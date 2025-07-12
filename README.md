@@ -3,10 +3,11 @@
   <img src="./shini.gif" width="70%"/>
 </div>
 
-Welcome to my intergalactic GitHub outpost. I’m a Software Engineer who crafts code like a starship navigating the nebula of tech. My mission? To build apps that spark joy, solve mysteries, and maybe save the galaxy (or at least a few deadlines). Think of me as a code-wielding Jedi with a penchant for sci-fi puns and pixel-perfect solutions.
+👋 Hi there! I’m a Software Engineer who enjoys building apps that are practical, user-friendly, and thoughtfully crafted. I love solving real-world problems with clean code, smart design, and a bit of creativity. Whether it’s meeting tight deadlines or fine-tuning the smallest details, I’m always up for the challenge.
+Let’s build something awesome.
 
-## 🌌 My Tech Arsenal
-*Armed with tools sharper than a lightsaber!*
+## 🌌 My Toolbox
+*Here are the tools and technologies I work with!*
 
 - **Main Languages (My Daily Grind):**
 
