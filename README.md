@@ -1,4 +1,4 @@
-# Greetings, Cosmic Coder! I'm bar5um 🚀
+# Greetings! I'm bar5um 🚀
 <div align="center">
   <img src="./shini.gif" width="70%"/>
 </div>
