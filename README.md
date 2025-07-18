@@ -33,7 +33,7 @@ Let’s build something awesome.
   ![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)
   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-  ![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)
+  [![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 
 ## 🌠 Current Mission Log
